@@ -63,7 +63,7 @@ A detailed guide to use the product.
 ####  *Vehicle_Analysis.ipynb / .py*
   Python code used to perform the analysis of the vehicles. Includes front end as well. Uses ‘ alert_data_.csv ’ .
 
-####  *app.py 
+####  *app.py* 
   Python code used to deploy the model saved in the file, ‘model_loc_time_knn.pkl’ developed with the Flask framework.
 
 #### *home.htm , result.htm and map.htm*
